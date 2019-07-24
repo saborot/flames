@@ -1,0 +1,3 @@
+export const CHANGE_NAME_1 = "CHANGE_NAME_1";
+export const CHANGE_NAME_2 = "CHANGE_NAME_2";
+export const COMPUTE_SCORES = "COMPUTE_SCORES";
