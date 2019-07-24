@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flames/static/css/main.da00fb50.chunk.css",
+    "main.js": "/flames/static/js/main.078ebcd3.chunk.js",
+    "main.js.map": "/flames/static/js/main.078ebcd3.chunk.js.map",
+    "runtime~main.js": "/flames/static/js/runtime~main.c80e6c8b.js",
+    "runtime~main.js.map": "/flames/static/js/runtime~main.c80e6c8b.js.map",
+    "static/js/2.07df93b6.chunk.js": "/flames/static/js/2.07df93b6.chunk.js",
+    "static/js/2.07df93b6.chunk.js.map": "/flames/static/js/2.07df93b6.chunk.js.map",
+    "index.html": "/flames/index.html",
+    "precache-manifest.3d9689d29a382626fb0c2c1fe4bd4844.js": "/flames/precache-manifest.3d9689d29a382626fb0c2c1fe4bd4844.js",
+    "service-worker.js": "/flames/service-worker.js",
+    "static/css/main.da00fb50.chunk.css.map": "/flames/static/css/main.da00fb50.chunk.css.map"
+  }
+}
